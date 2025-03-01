@@ -1,5 +1,8 @@
 # web3d-file-server
-用于three-cesium-examples存储文件的服务器
+用于threejs-cesium-webgpu-vue-js存储文件的服务器
+
+github 地址 https://github.com/AivoGenX/threejs-cesium-webgpu-vue-js
+
 
 # 郑重说明
 本库中的所有资源仅限于学习目的使用，严禁用于任何违法乱纪的活动。使用者应严格遵守相关法律法规。若因违反此规定而导致的任何后果，均由使用者自行承担，与本库及资源提供方无关。
