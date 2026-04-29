@@ -6,7 +6,7 @@
 
 这是一个专门为 Web3D 开发提供资源文件的静态文件服务器，包含各种 3D 模型、贴图、地图瓦片、音频视频等资源文件。
 
-**GitHub 主项目**: https://github.com/AivoGenX/threejs-cesium-webgpu-vue-js
+**GitHub 主项目**: https://github.com/threelab/three-lab-demos
 
 ## ⚠️ 版权声明与使用条款
 
@@ -28,57 +28,57 @@
 - **法律后果**：若因违反使用条款导致法律纠纷，责任由使用者自行承担
 ## 🌐 访问地址
 
-- **主页面**: https://AivoGenX.github.io/web3d-file-server/
-- **资源链接页面**: https://AivoGenX.github.io/web3d-file-server/link.html
+- **主页面**: https://threelab.github.io/web3d-file-server/
+- **资源链接页面**: https://threelab.github.io/web3d-file-server/link.html
 
 ## 📁 资源分类
 
 ### 🏠 3D Tiles 瓦片数据
-- **房屋模型**: https://AivoGenX.github.io/web3d-file-server/3dtiles/house/tileset.json
-- **测试瓦片**: https://AivoGenX.github.io/web3d-file-server/3dtiles/test/tileset.json
+- **房屋模型**: https://threelab.github.io/web3d-file-server/3dtiles/house/tileset.json
+- **测试瓦片**: https://threelab.github.io/web3d-file-server/3dtiles/test/tileset.json
 
 ### 🎨 贴图资源
-- **法线贴图**: https://AivoGenX.github.io/web3d-file-server/images/channels/n.png
-- **HDR 贴图**: https://AivoGenX.github.io/web3d-file-server/files/hdr/1k.hdr
-- **天空盒**: https://AivoGenX.github.io/web3d-file-server/files/sky/skyBox0/1.png
-- **地球贴图**: https://AivoGenX.github.io/web3d-file-server/threeExamples/application/flyLine/earth.jpeg
+- **法线贴图**: https://threelab.github.io/web3d-file-server/images/channels/n.png
+- **HDR 贴图**: https://threelab.github.io/web3d-file-server/files/hdr/1k.hdr
+- **天空盒**: https://threelab.github.io/web3d-file-server/files/sky/skyBox0/1.png
+- **地球贴图**: https://threelab.github.io/web3d-file-server/threeExamples/application/flyLine/earth.jpeg
 
 ### 🦊 3D 模型 (GLB格式)
-- **狐狸模型**: https://AivoGenX.github.io/web3d-file-server/files/model/Fox.glb
-- **电脑模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/computer.glb
-- **咖啡模型**: https://AivoGenX.github.io/web3d-file-server/examples/coffeeMug/coffeeMug.glb
-- **建筑模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/build.glb
-- **导弹模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/daodan.glb
-- **飞机模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/feiji.glb
-- **地面模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/foorGround.glb
-- **工人模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/gongren.glb
-- **雷达模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/leida.glb
-- **飞机模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/plane.glb
-- **机器人模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/robot.glb
-- **挖掘机模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/wajueji.glb
-- **展馆模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/zhanguan.glb
-- **追踪器模型**: https://AivoGenX.github.io/web3d-file-server/models/glb/zhuizi.glb
+- **狐狸模型**: https://threelab.github.io/web3d-file-server/files/model/Fox.glb
+- **电脑模型**: https://threelab.github.io/web3d-file-server/models/glb/computer.glb
+- **咖啡模型**: https://threelab.github.io/web3d-file-server/examples/coffeeMug/coffeeMug.glb
+- **建筑模型**: https://threelab.github.io/web3d-file-server/models/glb/build.glb
+- **导弹模型**: https://threelab.github.io/web3d-file-server/models/glb/daodan.glb
+- **飞机模型**: https://threelab.github.io/web3d-file-server/models/glb/feiji.glb
+- **地面模型**: https://threelab.github.io/web3d-file-server/models/glb/foorGround.glb
+- **工人模型**: https://threelab.github.io/web3d-file-server/models/glb/gongren.glb
+- **雷达模型**: https://threelab.github.io/web3d-file-server/models/glb/leida.glb
+- **飞机模型**: https://threelab.github.io/web3d-file-server/models/glb/plane.glb
+- **机器人模型**: https://threelab.github.io/web3d-file-server/models/glb/robot.glb
+- **挖掘机模型**: https://threelab.github.io/web3d-file-server/models/glb/wajueji.glb
+- **展馆模型**: https://threelab.github.io/web3d-file-server/models/glb/zhanguan.glb
+- **追踪器模型**: https://threelab.github.io/web3d-file-server/models/glb/zhuizi.glb
 
 ### 📄 其他格式模型
-- **城市白膜 (FBX)**: https://AivoGenX.github.io/web3d-file-server/models/fbx/shanghai.FBX
+- **城市白膜 (FBX)**: https://threelab.github.io/web3d-file-server/models/fbx/shanghai.FBX
 
 ### 📊 JSON 数据文件
-- **英文字体**: https://AivoGenX.github.io/web3d-file-server/files/json/font.json
-- **中文字体**: https://AivoGenX.github.io/web3d-file-server/files/json/font_zn.json
-- **广东地理数据**: https://AivoGenX.github.io/web3d-file-server/files/json/guangdong.json
+- **英文字体**: https://threelab.github.io/web3d-file-server/files/json/font.json
+- **中文字体**: https://threelab.github.io/web3d-file-server/files/json/font_zn.json
+- **广东地理数据**: https://threelab.github.io/web3d-file-server/files/json/guangdong.json
 
 ### 🎵 多媒体资源
-- **视频文件**: https://AivoGenX.github.io/web3d-file-server/files/video/video.mp4
-- **音频文件**: https://AivoGenX.github.io/web3d-file-server/files/audio/Avicii-WeBurn.mp3
+- **视频文件**: https://threelab.github.io/web3d-file-server/files/video/video.mp4
+- **音频文件**: https://threelab.github.io/web3d-file-server/files/audio/Avicii-WeBurn.mp3
 
 ### 🗺️ 地图瓦片
-- **离线地图**: https://AivoGenX.github.io/web3d-file-server/map/[Baidu-Gaode]/tiles/{z}/{x}/{y}.jpg
+- **离线地图**: https://threelab.github.io/web3d-file-server/map/[Baidu-Gaode]/tiles/{z}/{x}/{y}.jpg
 
 ## 🚀 使用方法
 
 1. **直接访问**: 在浏览器中打开上述链接即可下载或查看资源
 2. **在代码中使用**: 将资源链接作为 URL 直接用于 Three.js、Cesium 等 Web3D 框架
-3. **资源管理**: 访问 [link.html](https://AivoGenX.github.io/web3d-file-server/link.html) 查看所有资源的分类列表
+3. **资源管理**: 访问 [link.html](https://threelab.github.io/web3d-file-server/link.html) 查看所有资源的分类列表
 
 ## 📂 目录结构
 
